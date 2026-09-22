@@ -1,10 +1,3 @@
-Below is a **detailed, GitHub-ready `README.md`** written specifically for your implemented project. It explains the architecture, Wokwi simulation, MQTT communication, Edge-AI processing, Random Forest model, Flask dashboard, project structure, installation, execution, data flow, limitations, and future enhancements.
-
-You can copy this entire content into:
-
-```text
-Edge_AI_IDS/README.md
-```
 
 # Edge-AI Based Intrusion Detection System for IoT Networks
 
