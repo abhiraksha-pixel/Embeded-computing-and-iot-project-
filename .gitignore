@@ -1,0 +1,71 @@
+# ==========================================
+# Python
+# ==========================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+
+# ==========================================
+# Jupyter / Python temporary files
+# ==========================================
+
+.ipynb_checkpoints/
+
+
+# ==========================================
+# Project runtime logs
+# ==========================================
+
+logs/*.csv
+logs/backup/
+
+# Keep the logs folder in GitHub
+!logs/.gitkeep
+
+
+# ==========================================
+# Wokwi generated build files
+# ==========================================
+
+Wokwi_IoT_Simulation/build/
+
+# Wokwi temporary files
+Wokwi_IoT_Simulation/.wokwi/
+
+
+# ==========================================
+# Operating system files
+# ==========================================
+
+.DS_Store
+Thumbs.db
+
+
+# ==========================================
+# VS Code
+# ==========================================
+
+.vscode/
+
+
+# ==========================================
+# Temporary files
+# ==========================================
+
+*.tmp
+*.temp
+*.bak
+*.swp

@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/Wokwi_IoT_Simulation.ino.bin"
+elf = "build/Wokwi_IoT_Simulation.ino.elf"
