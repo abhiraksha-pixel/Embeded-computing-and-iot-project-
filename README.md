@@ -476,8 +476,14 @@ The Random Forest model is trained using a synthetic dataset. Its reported perfo
 
 ## Author
 
-**Abhi Raksha**
+**Abhi Raksha**  
+B.Tech – Electronics and Computer Science (AIML Specialization)  
+Christ University
 
-B.Tech – Electronics and Computer Science (AIML Specialization)
+Contributed to the development of AquaSentinel, an AI-powered groundwater intelligence platform focused on monitoring groundwater depletion, predicting future water levels, and identifying contamination risks.
 
-LinkedIn: https://www.linkedin.com/in/abhi-raksha-9b3b80369/
+Interested in Artificial Intelligence, Machine Learning, Full-Stack Development, and sustainable technology solutions.
+
+**Connect with me:**
+- LinkedIn: www.linkedin.com/in/abhi-raksha-9b3b80369/
+- Email: abhiraksha06@gmail.com
